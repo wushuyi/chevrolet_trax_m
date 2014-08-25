@@ -32,37 +32,37 @@ $(document).ready(function(){
 	}
 
 
-	$(".car_detail .box1 .video_1").click(function(){
+	$(".car_detail .video_1").click(function(){
 		$(".hide_video_1").show();
 		thisVideo_1.play();
 		return false;
 	});
-	$(".car_detail .box1 .video_2").click(function(){
+	$(".car_detail .video_2").click(function(){
 		$(".hide_video_2").show();
 		thisVideo_2.play();
 		return false;
 	});
-	$(".car_detail .box1 .video_3").click(function(){
+	$(".car_detail .video_3").click(function(){
 		$(".hide_video_3").show();
 		thisVideo_3.play();
 		return false;
 	});
-	$(".car_detail .box1 .video_4").click(function(){
+	$(".car_detail .video_4").click(function(){
 		$(".hide_video_4").show();
 		thisVideo_4.play();
 		return false;
 	});
-	$(".car_detail .box1 .video_5").click(function(){
+	$(".car_detail .video_5").click(function(){
 		$(".hide_video_5").show();
 		thisVideo_5.play();
 		return false;
 	});
-	$(".car_detail .box1 .video_6").click(function(){
+	$(".car_detail .video_6").click(function(){
 		$(".hide_video_6").show();
 		thisVideo_6.play();
 		return false;
 	});
-	$(".car_detail .box1 .video_7").click(function(){
+	$(".car_detail .video_7").click(function(){
 		$(".hide_video_7").show();
 		thisVideo_7.play();
 		return false;

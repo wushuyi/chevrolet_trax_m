@@ -370,7 +370,7 @@ var __gaCarTypeFull__;//cruze-hb
 var __gaRoot = "";
 
 
-var ReturnCarName = (function(){
+var ReturnCarName = window.ReturnCarName || (function(){
 	var carType = (function(){
 		var carArr = [
 			["/car.html", "全系车型"],
